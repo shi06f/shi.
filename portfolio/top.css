@@ -1,0 +1,54 @@
+.container {
+    max-width: 1000px;
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+    padding: 50px 0 500px 0;
+}
+
+.container p {
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.container h1 {
+    color: white;
+    font-size: 40px;
+}
+
+
+.top-wrapper {
+    padding-top: 150px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    background-image: url(https://cdn.pixabay.com/photo/2016/09/27/12/55/the-urban-landscape-1698274_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.name {
+    padding: 10px 0 10px 0;
+    color: darkgray;
+    background-color:black;
+    font-size: 20px;
+}
+
+.name p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.wrapper1 a {
+    display: block;
+    font-size: 30px;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: 15px 380px 15px 380px;
+}
+
+.wrapper2 a {
+    display: block;
+    font-size: 30px;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: 15px 380px 15px 380px;
+}

@@ -1,0 +1,48 @@
+.gal {
+    padding: 20px 0 20px 0;
+    background-image: url(https://cdn.pixabay.com/photo/2016/02/11/17/38/night-view-1194159_1280.jpg);
+}
+
+.gallaly {
+    padding: 10px 0 10px 0;
+    background-color: black;
+}
+
+.gallaly h1 {
+    margin-left: 20px;
+    color: royalblue;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.gal1 h1 {
+    margin-left: 40px;
+    color: white;
+    font-size:30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.gal1 h2 {
+    margin-left: 40px;
+    color: royalblue;
+    font-size:20px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+
+
+.gal1 p {
+    margin-left: 60px;
+    color: white;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+.gal1 img {
+    width: 500px;
+    padding-top: 70px;
+    padding-bottom: 20px;
+    margin-left: 100px;
+}
